@@ -1,2 +1,2 @@
 # JavaScript
- Repositório do curso de JavaScript do CursoemVideo
+ Repositorio do curso de JavaScript do CursoemVideo
